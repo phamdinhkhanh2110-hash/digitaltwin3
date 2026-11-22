@@ -89,7 +89,7 @@ public class PostgresWarehouseStore(IConfiguration config) : IWarehouseStore
 
         return room;
     }
-
+    sdsadsadsadsadsad
     // Interface có hàm này nên lớp phải cài đặt, nếu không sẽ không build được
     public IReadOnlyList<Slot> GetSlotsOfRacks(IReadOnlyCollection<int> rackIds)
     {
